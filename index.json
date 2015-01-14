@@ -1,217 +1,189 @@
 {
-  "sections": [
-    {
-      "type": "hero",
-      "style": "section",
-      "classes": [""],
-      "layout": "no-image",
-      "image": {
-        "url": "/img/logo@2x.png",
-        "alt": "Logo"
-      },
-      "background": {
-        "image": null,
-        "attachment": null,
-        "parallax": false
-      },
-      "title": "We are Heroes",
-      "subtitle": "We're launching with ⋈ BowTie.io",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "action": {
-        "content": "Learn More",
-        "url": "#features",
-        "style": null
-      }
-    },
+	"sections": [
+		{
+			"type": "hero",
+			"style": "section black",
+			"classes": [],
+			"layout": "image-center",
+			"image": {
+				"url": "springboard-logo.png"
+			},
+			"background": {
+				"image": {
+					"url": "springboard-bg2.jpg"
+				},
+				"attachment": "cover",
+				"parallax": "true"
+			},
+			"title": null,
+			"subtitle": "Dive In for a Chance to Launch Your Side Project at SXSW Interactive",
+			"body": " ",
+			"action": {
+				"content": "Learn More",
+				"url": "#features",
+				"style": "btn-warning"
+			}
+		},
+		{
+			"type": "navigation",
+			"layout": "navbarfixed",
+			"style": "color",
+			"classes": [
+				"hidden-xl"
+			],
+			"brand": {
+				"image": {
+					"url": "/img/tie-gray.png"
+				},
+				"content": null
+			},
+			"links": [
+				{
+					"action": "generic",
+					"content": "Prizes",
+					"href": "#features"
+				},
+				{
+					"content": "Register",
+					"href": "#signup"
+				},
+				{
+					"content": "Rules",
+					"href": "#rules"
+				}
+			]
+		},
+		{
+			"type": "features",
+			"style": "section black",
+			"classes": [
+				""
+			],
+			"background": {
+				"image": {
+					"url": "springboard-bg2.jpg"
+				},
+				"attachment": "cover",
+				"parallax": true
+			},
+			"title": "Ship to Win - Jan 31",
+			"subtitle": "Launch your project on ⋈ BowTie.io and win awesome prizes.",
+			"columns": [
+				{
+					"width": "col-sm-4",
+					"title": "Tools",
+					"subtitle": "",
+					"content": "Win 1 year of free hosting for your project on <a href=\"https://bowtie.io\" target=\"blank\">⋈ BowTie</a>. Bells, whistles, and premium support included.",
+					"icon": {
+						"class": "fa-rocket",
+						"image": null
+					}
+				},
+				{
+					"width": "col-sm-4",
+					"title": "Time",
+					"subtitle": "",
+					"content": "6 months free at ABQ's best coworking space: <a href=\"http://fatpipeabq.com\" target=\"blank\">Fatpipe ABQ</a> - including fiber internet, utilities, and access to other amazing entrepreuneurs.",
+					"icon": {
+						"class": "fa-clock-o",
+						"image": null
+					}
+				},
+				{
+					"width": "col-sm-4",
+					"title": "Exposure",
+					"subtitle": "",
+					"content": "Grand prize winner will present their project at Startup Oasis during <a href=\"http://sxsw.com/interactive\" target=\"blank\">SXSWi</a> in Austin on March 17th.",
+					"icon": {
+						"class": "fa-users"
+					}
+				},
+				{
+					"width": "col-sm-12",
+					"title": "More Prizes!",
+					"subtitle": "(Everyone Goes Home a Winner)",
+					"content": "</p><div class=\"row\"><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">1st Runner Up:</h4><ul class=\"prizes\"><li>6 months free hosting on Bowtie</li><li>Startup Legal filings from Lerner Venture Law</li><li>6 month Coffee subscritpion from XXX</li><li>BowTie.io Team Hooded Sweathsirts </li></ul></panel><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">Audience Choice:</h4><ul class=\"prizes\"><li>6 months free hosting on Bowtie</li><li>Startup Legal filings from Lerner Venture Law</li><li>Parrot XXX Drone</li><li>BowTie.io Team Hooded Sweathsirts </li></ul></panel><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">All Competitors:</h4><ul class=\"prizes\"><li>3 months free hosting on BowTie</li><li>A pile of awesome merch from our sponsors.</li><li>Food, craft beer and fun at Demo Day reception on Feb.13th</li></ul></panel></div>"
+				}
+			],
+			"action": {
+				"content": "Register Now",
+				"url": "#signup",
+				"style": "btn-warning"
+			}
+		},
+		{
+			"type": "email-signup",
+			"title": "Dive in",
+			"list": null,
+			"countdown": {
+				"date": "01/30/2015",
+				"complete": "Registration is now closed. Please join us for Demo Day on Feb.13th at FatpipeABQ."
+			},
+			"classes": [],
+			"style": "section black"
+		},
+		{
+			"type": "generic",
+			"title": "Format + Rules",
 
-    {
-      "type": "navigation",
-      "layout": "navbar",
-      "style": "color",
-      "classes": ["hidden-xl"],
-      "brand": {
-        "image": { "url": "/img/tie-gray.png" },
-        "content": null
-      },
-      "links": [
-        {
-          "action": "generic",
-          "linkType": "text",
-          "content": "Features",
-          "href": "#features"
-        },
-        {
-          "action": "sign_in",
-          "linkType": "text",
-          "content": "Sign In",
-          "href": "/users/sign_in"
-        },
-        {
-          "action": "sign_up",
-          "linkType": "text",
-          "content": "Sign Up",
-          "href": "/users/sign_up"
-        },
-        {
-          "action": "sign_out",
-          "linkType": "text",
-          "content": "Sign Out",
-          "href": "/users/sign_out"
-        },
-        {
-          "action": "account",
-          "linkType": "text",
-          "content": "My Account",
-          "href": "/users/edit"
-        },
-        {
-          "action": "generic",
-          "linkType": "text",
-          "content": "Contact",
-          "href": "#connect"
-        }
-      ]
-    },
-
-    {
-      "type": "email-signup",
-      "style": "section-alt",
-      "classes": [""],
-      "list": "sample",
-      "countdown": {
-        "date": "2015/11/15",
-        "complete": "Get ready. We're about to blow up."
-      },
-      "background": {
-        "image": null,
-        "attachment": null,
-        "parallax": false
-      },
-      "title": "Join Our Beta!",
-      "subtitle": ""
-    },
-
-    {
-      "type": "features",
-      "style": "section",
-      "classes": [""],
-      "background": {
-        "image": null,
-        "attachment": null,
-        "parallax": true
-      },
-      "title": "All the Things",
-      "subtitle": "Are there more things to be had?",
-      "columns": [
-        {
-          "width":        "col-sm-6",
-          "title":        "Code Well",
-          "subtitle":     "Feature 1 Sub",
-          "content":      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "icon": {
-            "class": "fa-code-fork",
-            "image": null,
-            "content": null
-          }
-        },
-        {
-          "width":        "col-sm-6",
-          "title":        "Ship Fast",
-          "subtitle":     "Feature 2 Sub",
-          "content":      "Lorem ipsum dolor sit amet, consectetur adipiscing elit 2.",
-          "icon": {
-            "class": null,
-            "image": {
-              "url": "/img/rocket.png",
-              "alt": "Feature 2"
-            },
-            "content": null
-          }
-        }
-      ]
-    },
-
-    {
-      "type": "generic",
-      "style": "section",
-      "classes": [""],
-      "layout": null,
-      "image": null,
-      "background": {
-        "image": {
-          "url": "/img/backgrounds/bg2.jpg"
-        },
-        "attachment": "tile",
-        "parallax": true
-      },
-      "title": "Lorem Ipsum Contentum",
-      "subtitle": "This is another line of text",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "action": {
-        "content": "Sign Up Today",
-        "url": "#signup",
-        "style": "btn-info"
-      }
-    },
-
-    {
-      "type": "team",
-      "style": "section",
-      "classes": [""],
-      "background": {
-        "image": null,
-        "attachment": null,
-        "parallax": false
-      },
-      "title": "The Team",
-      "subtitle": "Building Today, Shipping Tomorrow.",
-      "members": [
-        {
-          "breakpoint": "",
-          "width": ["col-sm-4"],
-          "name": "Clark Kent",
-          "body": "blah blah blah",
-          "image": { "url": "/img/user1.png" }
-        },
-        {
-          "breakpoint":"",
-          "width":["col-sm-4"],
-          "name": "Monica Rambeau",
-          "body": "blah blah blah",
-          "image": { "url": "/img/user2.png" }
-        },
-        {
-          "breakpoint":   "",
-          "width": ["col-sm-4"],
-          "name": "Tony Stark",
-          "body": "blah blah blah",
-          "image": { "url": "/img/user1.png" }
-        }
-      ]
-    },
-
-    {
-      "type": "footer",
-      "style": "section black",
-      "classes": [""],
-      "title": "Connect with Us",
-      "background": {
-        "image": null,
-        "attachment": null,
-        "parallax": false
-      },
-      "networks": [
-        {
-          "url": "https://github.com/bowtie-io",
-          "icon-class": "fa-github",
-          "icon-sizes": "fa-4x"
-        },
-        {
-          "url": "https://twitter.com/bowtie_io",
-          "icon-class": "fa-twitter",
-          "icon-sizes": "fa-4x"
-        }
-      ]
-    }
-  ]
+			"body": "<a name=\"rules\"></a><p>&nbsp;</p><p>Teams (1-3 people, 30 teams Max) will compete by launching their projects on ⋈ BowTie's frontend hosting platform. Springboard begins with an intro and hackathon with the ⋈ BowTie founders on Jan 31st from 11:00a - 3:00p at <a href=\"http://fatpipeabq.com\" target=\"blank\">FatPipe ABQ</a> (lunch provided). Teams reconvene at FatPipe ABQ to present their projects at a public Demo Day on Feb. 13th.</p><p>Judges (TBD) will announce the Grand Prize, Runner Up and Audience Choice awards at 6:30p with a reception to follow (craft beer, snacks, music). </p><p>Every idea is valid, but we encourage software that can take advantage of the tools offered by the ⋈ BowTie MVP (software products, social sites, web applications, tools that leverage mebership, etc.). Competitors may be remote, but preference will be given to local participants as registration fills. </p><p><strong>⋈ BowTie assumes zero ownership of any project created, we just want to help you get out the door.</strong></p>",
+			"action": {
+				"content": "Register",
+				"url": "#signup",
+				"style": "btn-warning"
+			},
+			"image": null,
+			"style": "section",
+			"background": {
+				"image": null,
+				"attachment": null,
+				"parallax": false
+			},
+			"classes": []
+		},
+		{
+			"type": "generic",
+			"title": null,
+			"subtitle": "⋈ BowTie Springboard would not be possible without:",
+			"body": " <div class=\"row sponsors\"><img src=\"../img/nmtc-logo.jpg\"><img src=\"../img/fatpipe-logo.jpg\"><img src=\"../img/lerner-venture-law-logo.jpg\"></div>",
+			"image": null,
+			"style": "section",
+			"background": {
+				"image": null,
+				"attachment": null,
+				"parallax": false
+			},
+			"classes": []
+		},
+		{
+			"type": "footer",
+			"title": "Questions?",
+			"networks": [
+				{
+					"url": "https://github.com/bowtie-io",
+					"icon-sizes": "fa-3x",
+					"icon-class": "fa-github"
+				},
+				{
+					"url": "https://twitter.com/bowtie_io",
+					"icon-sizes": "fa-3x",
+					"icon-class": "fa-twitter"
+				},
+				{
+					"url": "mailto:info@bowtie.io",
+					"icon-sizes": " fa-3x",
+					"icon-class": "fa-envelope-o"
+				}
+			],
+			"style": "section black",
+			"background": {
+				"image": null,
+				"attachment": null,
+				"parallax": false
+			},
+			"classes": [
+				""
+			]
+		}
+	]
 }

@@ -85,7 +85,7 @@
                   {{#if subtitle}}
                     <h2>{{subtitle}}</h2>
                   {{/if}}
-                  
+
                   {{#if body}}
                     <p>{{body}}</p>
                   {{/if}}
@@ -207,7 +207,7 @@
                   {{/if}}
 
                   {{#if body}}
-                    <p class="text-center area">{{body}}</p>
+                    <p class="text-center area">{{{body}}}</p>
                   {{/if}}
 
                   {{#if action}}
@@ -221,7 +221,7 @@
 
 
             {{#section "email-signup"}}
-              <div class="countdown {{sectionClasses}}" style="{{sectionBackground}}">
+              <div class="countdown {{sectionClasses}} email-signup" style="{{sectionBackground}}">
                 <a name="signup"></a>
 
                 {{#if countdown}}
@@ -248,7 +248,7 @@
                       {{/if}}
                       <div class="input-append">
                         <input type="text" name="prospect[email]" type="text" placeholder="Email Address">
-                        <button class="btn btn-default" type="submit">Sign Up</button>
+                        <button class="btn btn-warning" type="submit">Sign Up</button>
                       </div>
                       <p class="help-block text-muted">We won't spam or sell your email.</p>
                     </div>
@@ -259,12 +259,15 @@
                     </div>
                   </form>
                 </div>
+                <div class="springboard">
+                <img src="../img/springboard-solo.png">
+                </div>
               </div>
             {{/section}}
 
 
             {{#section "features"}}
-            <div id="features" class="countdown {{sectionClasses}}" style="{{sectionBackground}}">
+            <div id="features" class="{{sectionClasses}}" style="{{sectionBackground}}">
               <a name="features"></a>
 
               <div class="container row-80">
