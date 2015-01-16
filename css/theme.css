@@ -1627,7 +1627,7 @@ background-size: auto auto;
 
 .section.email-signup {
 background: #95a5a6;
-background-image: url(../img/springboard-bg2.jpg) !important;
+background-image: url(../img/springboard-bg-animated.jpg) !important;
 background:no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
