@@ -102,7 +102,7 @@
 					"width": "col-sm-12",
 					"title": "More Prizes!",
 					"subtitle": "(Everyone Goes Home a Winner)",
-					"content": "</p><div class=\"row\"><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">1st Runner Up:</h4><ul class=\"prizes\"><li>6 months free hosting on Bowtie</li><li>Startup Legal setup from <a href=\"http://lernerventurelaw.com/\" target=\"_blank\">Lerner Venture Law</a></li><li>BowTie.io Team Hooded Sweatshirts </li></ul></panel><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">Audience Choice:</h4><ul class=\"prizes\"><li>6 months free hosting on Bowtie</li><li><a href=\"https://www.oculus.com/dk2/\" target=\"_blank\">Occulus Rift Dev Kit 2!</a></li><li>BowTie.io Team Hooded Sweatshirts </li></ul></panel><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">All Competitors:</h4><ul class=\"prizes\"><li>3 months free hosting on BowTie</li><li>A pile of awesome merch from our sponsors.</li><li>Food, craft beer and fun at Demo Day reception on Feb.13th</li></ul></panel></div>"
+					"content": "</p><div class=\"row\"><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">1st Runner Up:</h4><ul class=\"prizes\"><li>6 months free hosting on Bowtie</li><li>Startup Legal setup from <a href=\"http://lernerventurelaw.com/\" target=\"_blank\">Lerner Venture Law</a></li><li>BowTie.io Team Hooded Sweatshirts </li></ul></panel><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">Audience Choice:</h4><ul class=\"prizes\"><li>6 months free hosting on Bowtie</li><li><a href=\"https://www.oculus.com/dk2/\" target=\"_blank\">Occulus Rift Dev Kit 2!</a></li><li>BowTie.io Team Hooded Sweatshirts </li></ul></panel><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">All Competitors:</h4><ul class=\"prizes\"><li>3 months free hosting on BowTie</li><li>A pile of awesome discounts and merchandise from our sponsors.</li><li>Food, craft beer and fun at Demo Day reception on Feb.13th</li></ul></panel></div>"
 				}
 			],
 			"action": {
@@ -145,7 +145,7 @@
 			"type": "generic",
 			"title": null,
 			"subtitle": "⋈ BowTie Springboard would not be possible without:",
-			"body": " <div class=\"row sponsors\"><img src=\"../img/nmtc-logo.jpg\"><img src=\"../img/fatpipe-logo.jpg\"><img src=\"../img/lerner-venture-law-logo.jpg\"></div>",
+			"body": " <div class=\"row sponsors\"><img src=\"../img/nmtc-logo.jpg\"><img src=\"../img/lerner-venture-law-logo.jpg\"><img src=\"../img/digital-ocean-logo2.png\"><img src=\"../img/delicious-sip-logo.png\"><img src=\"../img/fatpipe-logo.jpg\"></div>",
 			"image": null,
 			"style": "section",
 			"background": {
