@@ -10,7 +10,7 @@
 			},
 			"background": {
 				"image": {
-					"url": "/img/springboard-bg-animated.jpg"
+					"url": "/img/springboard-bg-animated.gif"
 				},
 				"attachment": "cover",
 				"parallax": "true"
@@ -61,7 +61,7 @@
 			],
 			"background": {
 				"image": {
-					"url": "/img/springboard-bg-animated.jpg"
+					"url": "/img/springboard-bg-animated.gif"
 				},
 				"attachment": "cover",
 				"parallax": true
