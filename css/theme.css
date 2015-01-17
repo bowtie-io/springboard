@@ -2164,9 +2164,22 @@ padding: 0 .2em 0 .4em !important;
 @media only screen and
 (-webkit-min-device-pixel-ratio: 2) and (max-width: 600px),
 (min-resolution: 192dpi) and (max-width: 600px) {
-	/*.parallax{
+	.parallax{
 		background-attachment:scroll !important;
-	}*/
+	}
+	.section.cover, .section-alt.cover {
+	background:none;
+	}
+	.section.email-signup {
+	background:no-repeat center center fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	background-attachment:scroll !important;
+	}
+
+
 }
 
 @media (max-width: 480px) {
