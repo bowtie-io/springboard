@@ -1713,7 +1713,7 @@ background-repeat:repeat !important;
 /*******************************************************/
 
 .bg, .bg2 {
-background-image: url('/img/backgrounds/bg2.jpg');
+background-image: url('../img/backgrounds/bg2.jpg');
 background-repeat:repeat;
 height:100vh;
 }
