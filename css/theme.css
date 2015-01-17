@@ -1761,6 +1761,13 @@ color: #888;
 color:#bbb;
 }
 
+.fineprint {
+	font-size:.85em;
+	padding-top:50px;
+}
+.section.black .fineprint p{
+	color:#555 !important;
+}
 
 /*******************************************************/
 /*** countdown **/
