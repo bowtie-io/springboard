@@ -2243,6 +2243,11 @@ padding: 0 .2em 0 .4em !important;
 		width: 32px;
 		height: 48px;
 	}
+	.section.email-signup > .springboard img{
+	width:95%;
+	height:320px;
+	}
+
 }
 
 @media (max-width: 360px) {
