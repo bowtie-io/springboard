@@ -102,7 +102,7 @@
 					"width": "col-sm-12",
 					"title": "More Prizes!",
 					"subtitle": "(Everyone Goes Home a Winner)",
-					"content": "</p><div class=\"row\"><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">1st Runner Up:</h4><ul class=\"prizes\"><li>6 months free hosting on Bowtie</li><li>Startup Legal setup from <a href=\"http://lernerventurelaw.com/\" target=\"_blank\">Lerner Venture Law</a></li><li>BowTie.io Team Hooded Sweatshirts </li></ul></panel><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">Audience Choice:</h4><ul class=\"prizes\"><li>6 months free hosting on Bowtie</li><li><a href=\"https://www.oculus.com/dk2/\" target=\"_blank\">Occulus Rift Dev Kit 2!</a></li><li>BowTie.io Team Hooded Sweatshirts </li></ul></panel><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">All Competitors:</h4><ul class=\"prizes\"><li>3 months free hosting on BowTie</li><li>A pile of awesome discounts and merchandise from our sponsors.</li><li>Food, craft beer and fun at Demo Day reception on Feb.13th</li></ul></panel></div>"
+					"content": "</p><div class=\"row\"><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">1st Runner Up:</h4><ul class=\"prizes\"><li>6 months free hosting on Bowtie</li><li>Startup Legal setup from <a href=\"http://lernerventurelaw.com/\" target=\"_blank\">Lerner Venture Law</a></li><li>BowTie.io Team Hooded Sweatshirts </li></ul></panel><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">Audience Choice:</h4><ul class=\"prizes\"><li>6 months free hosting on Bowtie</li><li><a href=\"https://www.oculus.com/dk2/\" target=\"_blank\">Occulus Rift Dev Kit 2!</a></li><li>BowTie.io Team Hooded Sweatshirts </li></ul></panel><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">All Competitors:</h4><ul class=\"prizes\"><li>3 months free hosting on BowTie</li><li>A pile of awesome discounts and merchandise from our sponsors.</li><li>Food, craft beer and fun at Demo Day on Feb.13th at 5:00pm (awards at 6:30pm, reception to follow)</li></ul></panel></div>"
 				}
 			],
 			"action": {
@@ -117,7 +117,7 @@
 			"list": null,
 			"countdown": {
 				"date": "01/30/2015",
-				"complete": "Registration is now closed. Please join us for Demo Day on Feb.13th at FatpipeABQ."
+				"complete": "Registration is now closed. Please join us for Demo Day on Feb.13th at FatpipeABQ 5pm."
 			},
 			"classes": [],
 			"style": "section black"
@@ -125,7 +125,7 @@
 		{
 			"type": "generic",
 			"title": "Format + Rules",
-			"body": "<a name=\"rules\"></a><p>&nbsp;</p><p>Teams (1-3 people, 30 teams Max) will compete by launching their projects on ⋈ BowTie's frontend hosting platform. Springboard begins with an intro and hackathon with the ⋈ BowTie founders on Jan 31st from 11:00a - 3:00p at <a href=\"http://fatpipeabq.com\" target=\"blank\">FatPipe ABQ</a> (lunch provided). Teams reconvene for a public Demo Day at FatPipe ABQ on Feb. 13th.</p><p>Judges (TBD) will announce the Grand Prize, Runner Up and Audience Choice awards at 6:30p with a reception to follow (craft beer, snacks, music). </p><p>Every idea is valid, but we encourage software that can take advantage of the tools offered by the ⋈ BowTie MVP (software products, social sites, web applications, tools that leverage membership, etc.). Competitors may be remote, but preference will be given to local participants as registration fills. Students are welcome to participate.</p><p><strong>⋈ BowTie assumes no ownership of your project. We just want to help you get out the door.</strong></p>",
+			"body": "<a name=\"rules\"></a><p>&nbsp;</p><p>Teams (1-3 people, 30 teams Max) will compete by launching their projects on ⋈ BowTie's frontend hosting platform. Springboard begins with an intro and hackathon with the ⋈ BowTie founders on Jan 31st from 11:00a - 3:00p at <a href=\"http://fatpipeabq.com\" target=\"blank\">FatPipe ABQ</a> (lunch provided). Teams reconvene for a public Demo Day at FatPipe ABQ on Feb. 13th at 5:00p.</p><p>Judges (TBD) will announce the Grand Prize, Runner Up and Audience Choice awards at 6:30p with a reception to follow (craft beer, snacks, music). </p><p>Every idea is valid, but we encourage software that can take advantage of the tools offered by the ⋈ BowTie MVP (software products, social sites, web applications, tools that leverage membership, etc.). Competitors may be remote, but preference will be given to local participants as registration fills. Students are welcome to participate.</p><p><strong>⋈ BowTie assumes no ownership of your project. We just want to help you get out the door.</strong></p>",
 			"action": {
 				"content": "Register",
 				"url": "#signup",
