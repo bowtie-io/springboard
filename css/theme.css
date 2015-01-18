@@ -1648,6 +1648,10 @@ margin: 0 auto;
 position: relative;
 }
 
+.mediakit {
+margin-top:40px;
+}
+
 .sponsors img{
 display: inline-block;
 height: 80px;
