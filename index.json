@@ -125,7 +125,6 @@
 		{
 			"type": "generic",
 			"title": "Format + Rules",
-
 			"body": "<a name=\"rules\"></a><p>&nbsp;</p><p>Teams (1-3 people, 30 teams Max) will compete by launching their projects on ⋈ BowTie's frontend hosting platform. Springboard begins with an intro and hackathon with the ⋈ BowTie founders on Jan 31st from 11:00a - 3:00p at <a href=\"http://fatpipeabq.com\" target=\"blank\">FatPipe ABQ</a> (lunch provided). Teams reconvene for a public Demo Day at FatPipe ABQ on Feb. 13th.</p><p>Judges (TBD) will announce the Grand Prize, Runner Up and Audience Choice awards at 6:30p with a reception to follow (craft beer, snacks, music). </p><p>Every idea is valid, but we encourage software that can take advantage of the tools offered by the ⋈ BowTie MVP (software products, social sites, web applications, tools that leverage membership, etc.). Competitors may be remote, but preference will be given to local participants as registration fills. Students are welcome to participate.</p><p><strong>⋈ BowTie assumes no ownership of your project. We just want to help you get out the door.</strong></p>",
 			"action": {
 				"content": "Register",
@@ -140,6 +139,32 @@
 				"parallax": false
 			},
 			"classes": []
+		},
+		{
+			"type": "team",
+			"title": "Judges",
+			"subtitle": null,
+			"background": {
+				"image": null,
+				"attachment": null,
+				"parallax": false
+			},
+			"classes": [],
+			"style": "section-alt",
+			"members": [
+				{
+					"name": "Jared Tarbell",
+					"body": "Jared Tarbell is a passionate creator, programmer and mathematician. His unique perspective on language and visualization has led to a lifetime of impressive and impactful projects (most recently Levitated Toy Factory; Etsy.com). "
+				},
+				{
+					"name": "Jee Vahn Knight",
+					"body": "CEO of Dsire"
+				},
+				{
+					"name": "Judge #3",
+					"body": "bio"
+				}
+			]
 		},
 		{
 			"type": "generic",
