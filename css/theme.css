@@ -2264,7 +2264,14 @@ padding: 0 .2em 0 .4em !important;
 	width:95%;
 	height:320px;
 	}
-
+	.sponsors img{
+		display: inline-block;
+margin: 15px 10px;
+max-width: 95%;
+padding: -10px !important;
+height: auto;
+max-height: 80px;
+	}
 }
 
 @media (max-width: 360px) {
