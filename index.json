@@ -153,16 +153,20 @@
 			"style": "section-alt",
 			"members": [
 				{
-					"name": "Jared Tarbell",
-					"body": "Jared Tarbell is a passionate creator, programmer and mathematician. His unique perspective on language and visualization has led to a lifetime of impressive and impactful projects (most recently Levitated Toy Factory; Etsy.com). "
-				},
-				{
+					"width": "col-sm-6",
+					"image": {
+						"url": "img/jee.png"
+						},
 					"name": "Jee Vahn Knight",
-					"body": "CEO of Dsire"
+					"body": "Jee Vahn Knight is a storyteller with a talent for combining logic and beauty into cohesive theatrical digital campaigns, interactives, and application designs. As the CEO of <a href=\"http://dsire.com\" target=\"blank\">Dsire</a>, Jee has launched software products, deployed and managed very high traffic web properties, and productized the perfect creative workflow."
 				},
 				{
-					"name": "Judge #3",
-					"body": "bio"
+					"width": "col-sm-6",
+					"image": {
+						"url": "img/jared.png"
+						},
+					"name": "Jared Tarbell",
+					"body": "Jared Tarbell is a passionate creator, programmer and mathematician. His unique perspective on language and visualization has led to a lifetime of impressive and impactful projects (most recently <a href=\"http://levitated.guru\" target=\"blank\">Levitated Toy Factory</a>; <a href=\"http://etsy.com\" target=\"blank\">Etsy.com</a>). "
 				}
 			]
 		},
