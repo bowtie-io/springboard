@@ -33,7 +33,7 @@
 			],
 			"brand": {
 				"image": {
-					"url": "/img/tie-gray.png"
+					"url": "/img/logo.png"
 				},
 				"content": null
 			},
@@ -67,7 +67,7 @@
 				"parallax": true
 			},
 			"title": "Ship to Win - Jan 31",
-			"subtitle": "Launch your project on ⋈ BowTie.io and win awesome prizes.",
+			"subtitle": "Launch your project on ⋈ BowTie.io and win the grand prize:",
 			"columns": [
 				{
 					"width": "col-sm-4",
@@ -83,7 +83,7 @@
 					"width": "col-sm-4",
 					"title": "Time",
 					"subtitle": "",
-					"content": "6 months free at ABQ's best coworking space: <a href=\"http://fatpipeabq.com\" target=\"blank\">Fatpipe ABQ</a> - including fiber internet, utilities, and access to other amazing entrepreneurs.",
+					"content": "6 months free at ABQ's best coworking space: <a href=\"http://fatpipeabq.com\" target=\"blank\">Fatpipe ABQ</a> - including fiber internet, utilities, and access to other amazing entrepreneurs. 3 month coffee subscription from <a href=\"http://www.zendo-coffee.com/\" target=\"blank\">Zendo</a>, and 3 months of tea from <a href=\"http://www.delicioussip.com/\" target=\"blank\">Delicious Sip</a> to keep you fueled.",
 					"icon": {
 						"class": "fa-clock-o",
 						"image": null
@@ -102,7 +102,7 @@
 					"width": "col-sm-12",
 					"title": "More Prizes!",
 					"subtitle": "(Everyone Goes Home a Winner)",
-					"content": "</p><div class=\"row\"><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">1st Runner Up:</h4><ul class=\"prizes\"><li>6 months free hosting on Bowtie</li><li>Startup Legal setup from <a href=\"http://lernerventurelaw.com/\" target=\"_blank\">Lerner Venture Law</a></li><li>2 hours of guidance from a <a href=\"http://creative-startups.org/\" target=\"_blank\">Creative Startups</a> mentor of your choice.</li><li>BowTie.io Team Hooded Sweatshirts </li></ul></panel><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">Audience Choice:</h4><ul class=\"prizes\"><li>6 months free hosting on Bowtie</li><li><a href=\"https://www.oculus.com/dk2/\" target=\"_blank\">Occulus Rift Dev Kit 2!</a></li><li>BowTie.io Team Hooded Sweatshirts </li></ul></panel><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">All Competitors:</h4><ul class=\"prizes\"><li>3 months free hosting on BowTie</li><li>A pile of awesome discounts and merchandise from our sponsors.</li><li>Food, craft beer and fun at Demo Day on Feb.13th at 5:00pm (awards at 6:30pm, reception to follow)</li></ul></panel></div>"
+					"content": "</p><div class=\"row\"><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">1st Runner Up:</h4><ul class=\"prizes\"><li>6 months free hosting on Bowtie</li><li>Startup Legal setup from <a href=\"http://lernerventurelaw.com/\" target=\"_blank\">Lerner Venture Law</a></li><li>2 hours of guidance from a <a href=\"http://creative-startups.org/\" target=\"_blank\">Creative Startups</a> mentor of your choice.</li><li>3 months of fine tea from <a href=\"http://www.delicioussip.com/\" target=\"blank\">Delicious Sip</a> to keep you fueled.</li><li>BowTie.io Team Hooded Sweatshirts </li></ul></panel><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">Audience Choice:</h4><ul class=\"prizes\"><li>6 months free hosting on Bowtie</li><li><a href=\"https://www.oculus.com/dk2/\" target=\"_blank\">Occulus Rift Dev Kit 2!</a></li><li>BowTie.io Team Hooded Sweatshirts </li></ul></panel><panel class=\"col-sm-4 text-center\"><h4 class=\"prizecat\">All Competitors:</h4><ul class=\"prizes\"><li>3 months free hosting on BowTie</li><li>A pile of awesome discounts and merchandise from our sponsors.</li><li>Food, craft beer and fun at Demo Day on Feb.13th at 5:00pm (awards at 6:30pm, reception to follow)</li></ul></panel></div>"
 				}
 			],
 			"action": {
@@ -153,7 +153,7 @@
 			"style": "section-alt",
 			"members": [
 				{
-					"width": "col-sm-6",
+					"width": "col-sm-4",
 					"image": {
 						"url": "img/jee.png"
 						},
@@ -161,12 +161,20 @@
 					"body": "Jee Vahn Knight is a storyteller with a talent for combining logic and beauty into cohesive theatrical digital campaigns, interactives, and application designs. As the CEO of <a href=\"http://dsire.com\" target=\"blank\">Dsire</a>, Jee has launched software products, deployed and managed very high traffic web properties, and productized the perfect creative workflow."
 				},
 				{
-					"width": "col-sm-6",
+					"width": "col-sm-4",
 					"image": {
 						"url": "img/jared.png"
 						},
 					"name": "Jared Tarbell",
 					"body": "Jared Tarbell is a passionate creator, programmer and mathematician. His unique perspective on language and visualization has led to a lifetime of impressive and impactful projects (most recently <a href=\"http://levitated.guru\" target=\"blank\">Levitated Toy Factory</a>; <a href=\"http://etsy.com\" target=\"blank\">Etsy.com</a>). "
+				},
+				{
+					"width": "col-sm-4",
+					"image": {
+						"url": "img/alanwebber.png"
+						},
+					"name": "Alan Webber",
+					"body": "One of the most widely respected and knowledgeable leaders in business journalism, Alan Webber launched Fast Company, the fastest growing, most successful business magazine in history and winner of two national magazine awards. Prior to that, he spent five years as managing editor/editorial director of Harvard Business Review, co-authored three books - most recently <em>The Global Detective</em>, and served as special assistant to the U.S. Secretary of Transportation."
 				}
 			]
 		},
@@ -174,7 +182,7 @@
 			"type": "generic",
 			"title": null,
 			"subtitle": "⋈ BowTie Springboard would not be possible without:",
-			"body": "<div class=\"row sponsors\"><img src=\"../img/nmtc-logo.jpg\"><img src=\"../img/lerner-venture-law-logo.jpg\"><img src=\"../img/digital-ocean-logo2.png\"><img src=\"../img/delicious-sip-logo.png\"><img src=\"../img/siarza-digital-logo.png\"><img src=\"../img/creative-startups-logo.png\"><img src=\"../img/fatpipe-logo.jpg\"></div><div class=\"mediakit\"><a href=\"http://bit.ly/1GxFnmF\" target=\"_blank\" class=\"btn btn-transparent\">Download a Poster and Media Kit</a></div>",
+			"body": "<div class=\"row sponsors\"><img src=\"../img/nmtc-logo.jpg\"><img src=\"../img/lerner-venture-law-logo.jpg\"><img src=\"../img/digital-ocean-logo2.png\"><img src=\"../img/delicious-sip-logo.png\"><img src=\"../img/siarza-digital-logo.png\"><img src=\"../img/zendo-logo.png\"><img src=\"../img/santa-fe-brewing-logo.png\"><img src=\"../img/creative-startups-logo.png\"><img src=\"../img/fatpipe-logo.jpg\"></div><div class=\"mediakit\"><a href=\"http://bit.ly/1GxFnmF\" target=\"_blank\" class=\"btn btn-transparent\">Download a Poster and Media Kit</a></div>",
 			"image": null,
 			"style": "section",
 			"background": {
