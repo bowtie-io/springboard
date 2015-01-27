@@ -841,8 +841,11 @@ background-color:#F39C12 !important;
 
 .navbar-brand{
 	padding-top:13px;
+}
+.navbar-brand img{
 	height:16px;
 }
+
 .nav > li > a > img{
 	height:14px;
 }
