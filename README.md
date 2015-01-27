@@ -1,13 +1,11 @@
-# Bow Tie Project Core
+# BowTie.io Springboard Competition Website!
+
+*First, register for the [BowTie.io Springboard Competition](https://springboard.bowtied.io/)*
 
 ## Getting Started
 
-1. `$ php -S localhost:8080`
-1. `open http://localhost:8080`
+We've made this BowTie.io-powered Project available as an example of a static site utilizing the BowTie.io platform. Clone and run with the [Bowtie Client](https://github.com/bowtie-io/bowtie-io) (`bowtie serve`).
 
-## Deploy
+## Contributions
 
-1. `git commit`
-1. `git push origin`
-
-*BowTie* generates a build and releases to the appropriate environment.
+Contributions are encouraged and welcome. Just fork and submit a pull request.
