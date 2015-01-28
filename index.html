@@ -21,7 +21,8 @@
     <script type="text/javascript" src="/js/smoothscroll.js"></script>
 
     <link href="/css/application.css" rel="stylesheet">
-
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.1.1/gh-fork-ribbon.min.css" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.1.1/gh-fork-ribbon.ie.min.css" />
     <script type="text/javascript">
       $.getJSON("/index.json", { dataType: 'json' }).success(function(data){
         /* Dynamic content from index.json */
@@ -70,9 +71,15 @@
         </button>
       </div>
     </div>
-
     <script type="text/handlebars" id="main">
       <div id="pagewrapper">
+        <!-- TOP RIGHT RIBBON: START COPYING HERE -->
+        <div class="github-fork-ribbon-wrapper left">
+            <div class="github-fork-ribbon">
+                <a href="https://github.com/bowtie-io/springboard">Fork me on GitHub</a>
+            </div>
+        </div>
+        <!-- TOP RIGHT RIBBON: END COPYING HERE -->
         <div id="content">
           {{#each sections}}
             {{#section "hero"}}

@@ -21,6 +21,21 @@ html {
 }
 
 
+.github-fork-ribbon-wrapper {
+	top: 108px !important;
+	overflow:visible !important;
+	z-index:50 !important;
+	}
+
+.github-fork-ribbon {
+	background-color: #333 !important;
+	}
+
+.github-fork-ribbon-wrapper.left {
+	left: -22px !important;
+	}
+
+
 /*******************************************************/
 /*** registration devise views ***/
 /*******************************************************/

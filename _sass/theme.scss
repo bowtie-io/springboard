@@ -363,14 +363,36 @@ input.remote-error:invalid {
 		.section{
 		 padding:50px 0;
 		}
-		.post-title {
-			font-size:32px;
-		}
-		.page-heading {
-			font-size: 26px;
+		.post-title,.page-heading {
+			font-size:2.25em;
 		}
 		h1, h2, h3, h4, p {
 			text-align:left;
+		}
+		body, p{
+			font-size:15px;
+			font-weight:400;
+			font-family:lato, helvetica, sans-serif;
+		}
+		h2 {
+			font-size:1.85em;
+			font-weight:400;
+			margin:1.5em 0 .5em;
+			color:#333;
+			font-family:lato, helvetica, sans-serif;
+		}
+		h3 {
+			font-size:1.5em;
+			margin:1.25em 0 .5em;
+			color:#789;
+			text-transform:uppercase;
+		}
+		h4 {
+			font-size:1em;
+			font-weight:600;
+			margin:1.5em 0 .5em;
+			color:#333 !important;
+			text-transform:uppercase;
 		}
 		a {
 			font-weight:400;

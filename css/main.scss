@@ -28,6 +28,19 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 
+.github-fork-ribbon-wrapper {
+  top: 70px !important;
+  }
+
+.github-fork-ribbon {
+  background-color: #333 !important;
+  }
+
+.github-fork-ribbon-wrapper.left {
+  left: -20px !important;
+  }
+
+
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
