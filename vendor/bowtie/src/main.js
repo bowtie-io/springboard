@@ -28,12 +28,11 @@ $(function(){
   if(templateElement.length > 0){
     page.renderTarget = templateElement;
     page.template = Handlebars.compile(templateElement.html());
-  }
+    page.render(page.data, false);
 
-  page.render(page.data, false);
-
-  if(page.previewScrollX !== null && page.previewScrollY !== null){
-    window.scrollTo(page.previewScrollX, page.previewScrollY);
+    if(page.previewScrollX !== null && page.previewScrollY !== null){
+      window.scrollTo(page.previewScrollX, page.previewScrollY);
+    }
   }
 });
 
