@@ -1,6 +1,7 @@
 $(function(){
   $('[data-countdown]').each(function() {
      var $this = $(this), finalDate = $(this).data('countdown');
+
      $this.countdown(finalDate, function(event) {
        $this.html(event.strftime(''
          + '<span class="count"><span class="count-wrap"><span class="digits" id="days">%D</span> day%!d </span></span>'
