@@ -60,7 +60,7 @@ A babysitter may schedule a time where they'd be willing to take a child at the 
 
 Problem Solved: Finding a translator at the last minute
 
-## Food Borne Concepts:
+## Food Related Concepts:
 
 ### Community Garden Group Platform
 
