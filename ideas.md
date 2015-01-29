@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Springboard Project Ideas"
+title: "Project Ideas"
 ---
 
 A number of fine developers may not be able to choose which of the many problems they encounter in their daily lives that they'd like to solve. For those who are having trouble selecting, we've assembled a list of candidates to add to the complexity!
