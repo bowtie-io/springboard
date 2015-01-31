@@ -15,7 +15,6 @@ You do not need to be present to participate, but we recommend it.
 
 Doors will open a few minutess before 11am. Lunch and coffee are provided (thanks to our amazing sponsors). As of this post we will have Bahn Mi from Cafe Trang, Coffee from Zendo, Tea from Delicious Sip, and snacks and soft drinks.
 
-
 You should arrive with an idea, API or application in hand. Need an idea? Check out [this list](/ideas.html). Most of the day will be spent learning about our platform, the tools it offers, and how you can leverage it to deploy your idea.
 
 ### Agenda
@@ -32,7 +31,7 @@ Time | Activity | Notes
 3:00p | End | Go forth and build. See you on the 13th!
 
 #### Questions
-Email cperson@bowtie.io with any questions
+Email cperson@bowtie.io with any questions.
 
 #### Contest Rules
 
