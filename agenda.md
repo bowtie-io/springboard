@@ -22,7 +22,7 @@ You should arrive with an idea, API or application in hand. Need an idea? Check 
 Time | Activity | Notes
 --- | --- | ---
 10:45a | Registration and Networking | Yep. We said _networking_.
-11:05a | Introductions to BowTie.io Team | Hello.
+11:05a | Introductions to BowTie.io Team | Hello!
 11:30a | BowTie Platform Philosophy and Structure | Presented by [James Kassemi](https://twitter.com/jkassemi)
 12:15a | The &#8904; BowTie UI | Presented by [Chad Person](https://twitter.com/chadperson)
 1:00p | LUNCH! | Sandwiches, Snacks, Coffee/Tea
