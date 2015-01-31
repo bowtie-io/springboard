@@ -35,4 +35,4 @@ Registration closes Jan 30th at 8pm MST, _OR_ once we hit 30 teams (1-3 members 
 
 ### Registration is Closed! See you at Demo Day!
 
-_*For info on prizes and judges, visit the [Main Site](/)_
+_*For info on prizes and judges, visit the [Main Site](https://springboard.bowtied.io/)_
