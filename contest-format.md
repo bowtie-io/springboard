@@ -3,11 +3,11 @@ layout: page
 title: "Rules + Format"
 ---
 
-Springboard is not a hackathon, it's a shipathon. We want you to show up with an API, app concept, or full blow application and walk away with a working MVP. The format and rules for this inaugural competition are pretty loose (_it's a prototype!_), but are defined as follows:
+Springboard is not a hackathon, it's a shipathon. We want you to show up with an API, app concept, or full blown application and walk away with a working MVP. The format and rules for this inaugural competition are pretty loose (_it's a prototype!_), but are defined as follows:
 
 ## Springboard 2015 Format:
 
-The contest takes place over two weeks with two distinct events - Kickoff and Demo Day. Participants need to complete a team registration prior to Jan 30th in order to participate. Teams (1-3 people, 30 teams Max) will compete by launching their own projects on ⋈ BowTie's frontend hosting platform.
+The contest takes place over two weeks with two distinct events - Kickoff and Demo Day. Participants need to complete a team registration prior to Jan 30th in order to participate. Teams (1-3 people, 30 teams max) will compete by launching their own projects on ⋈ BowTie's frontend hosting platform.
 
 Participation is FREE, and ⋈ BowTie assumes no ownership of your project. We just want to help you get out the door. The contest is our way of getting invaluable feedback on our own MVP.
 
@@ -19,7 +19,7 @@ Springboard begins with an intro and shipathon with the ⋈ BowTie founders on J
 
 You do not need to be present to participate, but we recommend it. You can tune in via [Google Hangout](https://www.youtube.com/watch?v=wYPIYfhhvUo "A-100 Live Feed") beginning at 11am MST. Students are welcome to participate. Lunch and coffee are provided (thanks to our amazing sponsors).
 
-You should arrive with an idea, API or application in hand. Every idea is valid, but we encourage software that can take advantage of the tools offered by the ⋈ BowTie MVP (software products, social sites, web applications, tools that leverage membership, etc.). Need an idea? Check out [this list](/ideas.html).
+You should arrive with an idea, API or application in hand. Every idea is valid, but we encourage software that can take advantage of the tools offered by the ⋈ BowTie MVP (software products, social sites, web applications, tools that leverage membership, etc.). Need an idea? Check out [this list](https://springboard.bowtied.io/ideas.html).
 
 
 ### Demo Day
@@ -35,4 +35,4 @@ Registration closes Jan 30th at 8pm MST, _OR_ once we hit 30 teams (1-3 members 
 
 ### Registration is Closed! See you at Demo Day!
 
-_*For info on prizes and judges, visit the [Main Site](/)_
+_*For info on prizes and judges, visit the [Main Site](https://springboard.bowtied.io/)_
