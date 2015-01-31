@@ -1,17 +1,13 @@
-# Site settings
-title: BowTie Springboard 2015
+---
+title: Springboard 2015
 email: info@bowtie.io
-description: >                # This means to ignore newlines until "baseurl:"
+description: |
   Win hosting, co-working space and sweet prizes (like an Oculus Rift) at Dev Springboard 2015 from ⋈ Bowtie.io
-baseurl: "https://springboard.bowtied.io"                   # The subpath of your site, e.g. /blog/
-url: "https://springboard.bowtied.io"  # The base hostname & protocol for your site
-
-# Build settings
+baseurl: https://springboard.bowtied.io
+url: https://springboard.bowtied.io
 markdown: kramdown
-
-# Kramdown options
 kramdown:
-  input: GFM                  # Enable Github Flavored Markdown
-
+  input: GFM
 include:
-  - ./vendor                  # Include vendor scripts and styles
+- "./vendor"
+google_analytics: "<!-- this is my test GA snippet -->"
