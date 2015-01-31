@@ -19,7 +19,7 @@ Springboard begins with an intro and shipathon with the ⋈ BowTie founders on J
 
 You do not need to be present to participate, but we recommend it. You can tune in via [Google Hangout](https://www.youtube.com/watch?v=wYPIYfhhvUo "A-100 Live Feed") beginning at 11am MST. Students are welcome to participate. Lunch and coffee are provided (thanks to our amazing sponsors).
 
-You should arrive with an idea, API or application in hand. Every idea is valid, but we encourage software that can take advantage of the tools offered by the ⋈ BowTie MVP (software products, social sites, web applications, tools that leverage membership, etc.). Need an idea? Check out [this list](/ideas.html).
+You should arrive with an idea, API or application in hand. Every idea is valid, but we encourage software that can take advantage of the tools offered by the ⋈ BowTie MVP (software products, social sites, web applications, tools that leverage membership, etc.). Need an idea? Check out [this list](https://springboard.bowtied.io/ideas.html).
 
 
 ### Demo Day
