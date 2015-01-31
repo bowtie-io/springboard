@@ -211,6 +211,11 @@
 					"icon-class": "fa-twitter"
 				},
 				{
+					"url": "mailto:chad@bowtie.io",
+					"icon-sizes": "fa-3x",
+					"icon-class": "fa-envelope"
+				},
+				{
 					"url": "mailto:info@bowtie.io",
 					"icon-sizes": " fa-3x",
 					"icon-class": "fa-envelope-o"
