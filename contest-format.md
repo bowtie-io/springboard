@@ -19,7 +19,7 @@ Springboard begins with an intro and shipathon with the ⋈ BowTie founders on J
 
 You do not need to be present to participate, but we recommend it. You can tune in via [Google Hangout](https://www.youtube.com/watch?v=wYPIYfhhvUo "A-100 Live Feed") beginning at 11am MST. Students are welcome to participate. Lunch and coffee are provided (thanks to our amazing sponsors).
 
-You should arrive with an idea, API or application in hand. Every idea is valid, but we encourage software that can take advantage of the tools offered by the ⋈ BowTie MVP (software products, social sites, web applications, tools that leverage membership, etc.). Need an idea? Check out this list.
+You should arrive with an idea, API or application in hand. Every idea is valid, but we encourage software that can take advantage of the tools offered by the ⋈ BowTie MVP (software products, social sites, web applications, tools that leverage membership, etc.). Need an idea? Check out [this list](/ideas.html).
 
 
 ### Demo Day
@@ -33,6 +33,6 @@ Judges will announce the Grand Prize, Runner Up and Audience Choice awards* at 6
 ## Registration
 Registration closes Jan 30th at 8pm MST, _OR_ once we hit 30 teams (1-3 members per team). You are not registered until you fill out the form below:
 
-### [Register Here](https://docs.google.com/forms/d/1xDPgTLqizqkUj2oD80bUzgM4oEkEjUU7aw-UG4tedjk/viewform "Team Registration Form")
+### Registration is Closed! See you at Demo Day!
 
 _*For info on prizes and judges, visit the [Main Site](/)_
