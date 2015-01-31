@@ -432,7 +432,28 @@ input.remote-error:invalid {
 			height:16px;
 			}
 	}
-
+	table{
+		display: block;
+    width: 100%;
+    overflow: auto;
+    word-break: keep-all;
+		thead{
+		font-size: 16px;
+		line-height: 1.6;
+		word-wrap: break-word;
+		}
+		tr {
+		background-color: #FFF;
+		border-top: 1px solid #CCC;
+		}
+		td, th{
+		padding: 6px 13px;
+		border: 1px solid #DDD;
+		}
+		tr .highlight {
+		background-color: #f7f7f7;
+		}
+	}
 	a:visited.site-title,  a.site-title{
 		color:#ddd;
 	}
