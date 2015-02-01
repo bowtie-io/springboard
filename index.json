@@ -160,7 +160,7 @@
 					"width": "col-sm-4",
 					"image": {
 						"url": "img/jee.png"
-						},
+					},
 					"name": "Jee Vahn Knight",
 					"body": "Jee Vahn Knight is a storyteller with a talent for combining logic and beauty into cohesive theatrical digital campaigns, interactives, and application designs. As the CEO of <a href=\"http://dsire.com\" target=\"blank\">Dsire</a>, Jee has launched software products, deployed and managed very high traffic web properties, and productized the perfect creative workflow."
 				},
@@ -168,7 +168,7 @@
 					"width": "col-sm-4",
 					"image": {
 						"url": "img/jared.png"
-						},
+					},
 					"name": "Jared Tarbell",
 					"body": "Jared Tarbell is a passionate creator, programmer and mathematician. His unique perspective on language and visualization has led to a lifetime of impressive and impactful projects (most recently <a href=\"http://levitated.guru\" target=\"blank\">Levitated Toy Factory</a>; <a href=\"http://etsy.com\" target=\"blank\">Etsy.com</a>). "
 				},
@@ -176,9 +176,9 @@
 					"width": "col-sm-4",
 					"image": {
 						"url": "img/alanwebber.png"
-						},
+					},
 					"name": "Alan Webber",
-					"body": "One of the most widely respected and knowledgeable leaders in business journalism, Alan Webber launched Fast Company, the fastest growing, most successful business magazine in history and winner of two national magazine awards. Prior to that, he spent five years as managing editor/editorial director of Harvard Business Review, co-authored three books - most recently <em>The Global Detective</em>, and served as special assistant to the U.S. Secretary of Transportation."
+					"body": "The most widely respected and knowledgeable leader in business journalism, Alan Webber launched Fast Company, the fastest growing, most successful business magazine in history and winner of two national magazine awards. Prior to that, he spent five years as managing editor/editorial director of Harvard Business Review, co-authored three books - most recently <em>The Global Detective</em>, and served as special assistant to the U.S. Secretary of Transportation."
 				}
 			]
 		},
@@ -209,6 +209,11 @@
 					"url": "https://twitter.com/bowtie_io",
 					"icon-sizes": "fa-3x",
 					"icon-class": "fa-twitter"
+				},
+				{
+					"url": "mailto:chad@bowtie.io",
+					"icon-sizes": "fa-3x",
+					"icon-class": "fa-envelope"
 				},
 				{
 					"url": "mailto:info@bowtie.io",
