@@ -23,6 +23,7 @@ A number of folks made commits in the UI before doing the suggested first steps 
 - Clone Your Repo (master is default, we recommend cloning development as well)
   - SSH clone URL is on your dashboard and in your project settings
 
+*_Remember:_ When you are working in the UI, you are committing to your `development` branch by default.
 
 ### Issue Reporting
 We are tracking any/all issues for the platform on our github page for the Springboard project site:
