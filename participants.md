@@ -33,16 +33,20 @@ Our docs are admittedly a bit weak right now, but under heavy revision. We put t
 [**BowTie docs.md on github**](https://github.com/bowtie-io/springboard/blob/master/bowtie-docs.md)
 
 
-If you get hung up, just use the feedback form in your account settings. We are pretty responsive. We also set up a Slack group for support. Let me know if you want to be added via that feedback form.
-
 ### Questions
 Email [help@bowtie.io](mailto:help@bowtie.io) with any/all questions. You can also request an invite to the _bowtie-support slack group_.
+Or, use the feedback form in your account settings. We are pretty responsive.
 
 ### Kick Off Live-stream
 A live stream of the event was recorded to [YouTube](https://www.youtube.com/watch?v=wYPIYfhhvUo "A-100 Live Feed")**
 
-We stuck pretty close to the planned agenda below. James Kassemi  is on ~0:22 ; Chad Person is ~00:40 ; Dave Worth is ~3:10
-_The audio is not the best, but it is mostly decipherable..._
+We stuck pretty close to the planned agenda below. _The audio is not the best, but it is mostly decipherable..._
+James Kassemi is on ~0:22 ; Chad Person is ~00:40 ; Dave Worth is ~3:10
+
+#### Slide Decks
+
+- James Kassemi's [**View Slides**](https://drive.google.com/file/d/0B0wmQOOMkBRnWXVJckxBT05QZWs/view?usp=sharing)    /  [**Download PDF**](/slides/Bowtie-Springboard-Presentation-James-Kassemi.pdf)
+- Dave Worths's [**View Slides**](https://drive.google.com/file/d/0B0wmQOOMkBRnVzNITGEyZjJyRVU/view?usp=sharing)  /  [**Download PDF**](/slides/Bowtie-Springboard-Presentation-David-Worth.pdf)
 
 Time | Activity | Notes
 --- | --- | ---
