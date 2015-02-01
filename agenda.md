@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Agenda"
+permalink: /agenda.html
+
 ---
 
 &#8904; BowTie Springboard 2015 kicks off on Jan 31st from 11:00a - 3:00p at [FatPipe ABQ](http://fatpipeabq.com) [(map)](https://www.google.com/maps/place/200+Broadway+Blvd+NE,+Albuquerque,+NM+87102/@35.084701,-106.6440609,17z/data=!3m1!4b1!4m2!3m1!1s0x87220cbc7ce053b3:0x87a438e1b38abc21).

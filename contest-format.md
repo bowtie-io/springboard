@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Rules + Format"
+permalink: /contest-format.html
+
 ---
 
 Springboard is not a hackathon, it's a shipathon. We want you to show up with an API, app concept, or full blown application and walk away with a working MVP. The format and rules for this inaugural competition are pretty loose (_it's a prototype!_), but are defined as follows:
