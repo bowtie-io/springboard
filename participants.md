@@ -60,5 +60,5 @@ Time | Activity | Notes
 3:00p | End | Go forth and build. See you on the 13th!
 
 ## Contest Rules
-For full Springboard Rules see [CONTEST RULES](/contest-format.html).
-_*For info on prizes and judges, visit the [Main Site](/)_
+For full Springboard Rules see [CONTEST RULES](https://springboard.bowtied.io/contest-format.html).
+_*For info on prizes and judges, visit the [Main Site](https://springboard.bowtied.io/)_
